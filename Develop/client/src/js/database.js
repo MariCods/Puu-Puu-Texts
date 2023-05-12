@@ -29,7 +29,7 @@ console.log('Data saved to the database', result);
 };
 
 // TODO: Add logic for a method that gets all the content from the database
-export const getAllDb = async () => {
+export const getDb = async () => {
   console.log('GET all from the database');
 const contactDb = await openDB('content', 1);
 
