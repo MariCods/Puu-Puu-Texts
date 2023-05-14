@@ -46,7 +46,7 @@ https://github.com/MariCods/Puu-Puu-Texts
 
 [Deployed Link]
 
-
+https://puu-puu-texts-app.herokuapp.com/
 # License
    
 [![License](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://opensource.org/licenses/MIT)
